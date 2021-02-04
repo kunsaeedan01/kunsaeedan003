@@ -10,7 +10,7 @@ html {
 	padding:  : 0;
 }
 body {
-	background-image : url(directory/newback.png);
+	background-image : url(directory/main_back.png);
 	background-repeat : no-repeat;
 	background-size : cover;
 	min-height: 100%;
